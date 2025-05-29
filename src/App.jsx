@@ -16,6 +16,7 @@ const App = () => {
                </header>
 
                <Search searchText={searchText} setSearchText={setSearchText}/>
+               <h1>vimukthi</h1>
            </div>
        </main>
     )
